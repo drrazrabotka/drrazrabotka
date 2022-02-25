@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drrazrabotka
 - 👀 I’m interested in programming and everything related to programming
-- 🌱 I’m currently learning always and everywhere
+- 🌱 I’m currently learning always and everywhere machine learning, android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dr.razrabotka@yandex.ru
 
